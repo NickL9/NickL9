@@ -8,7 +8,7 @@
 <a href="https://github.com/NickL9"><img height="30" src="https://github.com/NickL9/NickL9/blob/main/images/icons/github.png"></a>&nbsp;&nbsp;
 <a href="mailto:Nick.Levinski@uwaterloo.ca"><img height="30" src="https://github.com/NickL9/NickL9/blob/main/images/icons/mail.png"></a>&nbsp;&nbsp;
   
-[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickL9)](https://github.com/anuraghazra/github-readme-stats)
+[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickL9&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **NickL9/NickL9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
