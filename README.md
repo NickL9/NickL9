@@ -10,6 +10,13 @@
   
 [![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickL9&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NickL9&repo=Auto-registration-Tool)](https://github.com/NickL9/Auto-registration-Tool)
 
 <!--
