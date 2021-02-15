@@ -18,6 +18,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickL9&show_icons=true&hide=PureBasic,&layout=compact&count_private=true&show_icons=true&theme=dracula" />
 </a>
 
+<br />
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NickL9&count_private=true&show_icons=true&theme=dracula" />
 </a>
