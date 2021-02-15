@@ -1,7 +1,9 @@
-#[![Header](https://raw.githubusercontent.com/NickL9/NickL9/blob/main/Banner.png)](https://sites.google.com/view/nlevinski/home)
+[![Header](https://raw.githubusercontent.com/NickL9/NickL9/blob/main/Banner.png)](https://sites.google.com/view/nlevinski/home)
 
-
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### Hi there 👋
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=NickL9&theme=<THEME_NAME>" />
 
 <!--
 **NickL9/NickL9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
