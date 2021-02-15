@@ -4,9 +4,9 @@
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nicholaslevinski//"><img height="30" src="https://github.com/NickL9/NickL9/blob/main/images/icons/linkedin-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://github.com/NickL9"><img height="30" src="https://github.com/NickL9/NickL9/blob/main/images/icons/github-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="mailto:Nick.Levinski@uwaterloo.ca"><img height="30" src="https://github.com/NickL9/NickL9/blob/main/images/icons/envelope-square-solid.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nicholaslevinski//"><img height="30" src="https://github.com/NickL9/NickL9/blob/main/images/icons/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://github.com/NickL9"><img height="30" src="https://github.com/NickL9/NickL9/blob/main/images/icons/github.png"></a>&nbsp;&nbsp;
+<a href="mailto:Nick.Levinski@uwaterloo.ca"><img height="30" src="https://github.com/NickL9/NickL9/blob/main/images/icons/mail.png"></a>&nbsp;&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=NickL9&theme=<THEME_NAME>" />
 
 <!--
