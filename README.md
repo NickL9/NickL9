@@ -1,8 +1,12 @@
-[![Header](https://raw.githubusercontent.com/NickL9/NickL9/blob/main/Banner.png)](https://sites.google.com/view/nlevinski/home)
+## [![Nick Levinski's Header](https://raw.githubusercontent.com/NickL9/NickL9/blob/main/Banner.png)](https://sites.google.com/view/nlevinski/home)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### Hi there 👋
 
+
+<p align="center">
+<a href="https://www.linkedin.com/in/nicholaslevinski//"><img height="30" src="https://github.com/NickL9/NickL9/blob/master/images/icons/linkedin-brands.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/NickL9"><img height="30" src="https://github.com/NickL9/NickL9/blob/master/images/icons/github-square-brands.svg"></a>&nbsp;&nbsp;
+<a href="mailto:Nick.Levinski@uwaterloo.ca"><img height="30" src="https://github.com/NickL9/NickL9/blob/master/images/icons/envelope-square-solid.svg"></a>&nbsp;&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=NickL9&theme=<THEME_NAME>" />
 
 <!--
