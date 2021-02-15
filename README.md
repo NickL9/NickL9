@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/NickL9/NickL9/banner.png "Header")](https://sites.google.com/view/nlevinski/home)
+[![Header](https://raw.githubusercontent.com/NickL9/NickL9/Banner.png "Header")](https://sites.google.com/view/nlevinski/home)
 
 
 ### Hi there 👋
