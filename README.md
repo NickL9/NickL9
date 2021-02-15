@@ -1,4 +1,4 @@
-## [![Nick Levinski's Header](https://raw.githubusercontent.com/NickL9/NickL9/blob/master/images/Banner.png)](https://sites.google.com/view/nlevinski/home)
+## [![Nick Levinski's Header](https://github.com/NickL9/NickL9/blob/main/images/Banner.png)](https://sites.google.com/view/nlevinski/home)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
