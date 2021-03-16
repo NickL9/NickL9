@@ -2,6 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+Hi, I'm Nick! I am a third year Nanotechnology Engineering Student at the University of Waterloo. I have a passion for silicon development and I love hands-on work. I am currently seeking Winter 2022 internship opportunities, feel free to Contact Me if you have any questions and take a look at some of the cool things I have done below or on my Projects page.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/nicholaslevinski//"><img height="50" src="https://github.com/NickL9/NickL9/blob/main/images/icons/linkedin.png"></a>&nbsp;&nbsp;
