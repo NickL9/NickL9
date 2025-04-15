@@ -8,6 +8,7 @@ You have reached Nick Levinski's Github Page. This is essentially depricated due
 <a href="mailto:Nick.Levinski@uwaterloo.ca"><img height="50" src="https://github.com/NickL9/NickL9/blob/main/images/icons/mail.png"></a>&nbsp;&nbsp;
   
 <br />
+<!--
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickL9&show_icons=true&hide=PureBasic,&layout=compact&count_private=true&show_icons=true&theme=dracula" />
@@ -18,7 +19,7 @@ You have reached Nick Levinski's Github Page. This is essentially depricated due
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NickL9&count_private=true&show_icons=true&theme=dracula" />
 </a>
-
+-->
 
 <!--
 **NickL9/NickL9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
