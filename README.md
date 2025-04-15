@@ -9,10 +9,6 @@ You have reached Nick Levinski's Github Page. This is essentially depricated due
   
 <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NickL9&show_icons=true&repo=Auto-registration-Tool&theme=dracula" />
-</a>
-
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickL9&show_icons=true&hide=PureBasic,&layout=compact&count_private=true&show_icons=true&theme=dracula" />
 </a>
